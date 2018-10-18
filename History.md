@@ -1,5 +1,6 @@
 4.16.4 / 2018-10-10
 ===================
+#No changes as such
 
   * Fix issue where `"Request aborted"` may be logged in `res.sendfile`
   * Fix JSDoc for `Router` constructor
