@@ -10,7 +10,7 @@
   [![Windows Build][appveyor-image]][appveyor-url]
   [![Test Coverage][coveralls-image]][coveralls-url]
 
-```js
+```''''''js
 var express = require('express')
 var app = express()
 
